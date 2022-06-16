@@ -30,7 +30,9 @@
   
 </div>
   
-### **Contata-me** 
+### **Contat** 
   
 <a target="_blank" href="https://www.linkedin.com/in/roger-machado-04b094240/"><img align="center" alt="Roger-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
   
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
