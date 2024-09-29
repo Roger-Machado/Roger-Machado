@@ -1,9 +1,10 @@
 ### Olá, Eu sou o Roger Machado
 
 - 📗 Estudos: C# COMPLETO Programação Orientada a Objetos + Projetos (Udemy), Logica de Programação, Algoritmos e HTML, Youtube.
-- 📘 Cursos: Etec Comendador João Rays (2019 - 2020), Udemy.   
+- 📘 Cursos: Etec Comendador João Rays (2019 - 2020), Udemy.
+- 📕 Faculdade: Ciência Computação (2024), UNISAGRADO.
 - 📫 E-mail: rogerr_machadoo@hotmail.com
-
+  
 <div align="center">
   <a href="https://github.com/Roger-Machado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roger-Machado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
